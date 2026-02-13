@@ -1,7 +1,7 @@
 body{
   font-family: Arial, sans-serif;
   background: #f4f6f8;
-  background-image: url('ai-generated-travelling-to-thailand-advertisment-background-with-copy-space-free-photo.jpg');
+  background-image: url("https://static.vecteezy.com/system/resources/previews/037/248/575/non_2x/ai-generated-travelling-to-thailand-advertisment-background-with-copy-space-free-photo.jpg");
 }
 h1{font-size: 70px;
 text-align: center;}
@@ -13,7 +13,7 @@ header{
     color: white;
     text-align: center;
     padding: 20px;
-    background-image: url('Large_World_Map_bright.jpg');
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/f/f2/Large_World_Map_bright.jpg');
     border-bottom: 20px solid rgb(143, 143, 235);
 }
 button{
