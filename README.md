@@ -5,7 +5,7 @@
 
 A web application that lets users keep track of places they've been to. Each location visited is stored as an object created using JavaScript constructors and prototypes.
 
-### Users can:
+#### Users can:
 
 . Add a new place
 . View their list of visited places
