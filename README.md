@@ -7,9 +7,9 @@ A web application that lets users keep track of places they've been to. Each loc
 
 Users can:
 
-Add a new place
-View their list of visited places
-Click a place to see its full details
+. Add a new place
+. View their list of visited places
+. Click a place to see its full details
 
 ## Code info
 Languages used: Html, CSS and JaVA Script
