@@ -3,3 +3,54 @@ body{
   background: #f4f6f8;
   background-image: url('ai-generated-travelling-to-thailand-advertisment-background-with-copy-space-free-photo.jpg');
 }
+h1{font-size: 70px;
+text-align: center;}
+#h1{
+    font-size: large;
+    text-align: center;
+}
+header{
+    color: white;
+    text-align: center;
+    padding: 20px;
+    background-image: url('Large_World_Map_bright.jpg');
+    border-bottom: 20px solid rgb(143, 143, 235);
+}
+button{
+  padding: 10px;
+  background: #4c5baf;
+  border: none;
+  color: white;
+}
+#logpart{
+  display: flex;
+  align-items: flex-start;
+  padding: 30px;
+  gap: 20px;
+}
+section {
+  background: rgb(102, 111, 218);
+  padding: 20px;
+  border-radius: 10px;
+  width: 30%;
+}
+input{
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+}
+textarea{
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+}
+li{
+    padding: 8px;
+}
+li:hover{
+  background: #c5ceff;
+  cursor: pointer;
+}
+button:hover{
+  background: #87e3fc;
+}
